@@ -13,11 +13,17 @@ Abbreviation support for Juris-M
 
 ------------------------
 
------------------
+^^^^^^^^^^^^^^^^^
 Table of Contents
------------------
+^^^^^^^^^^^^^^^^^
 
 .. toctree::
    :maxdepth: 2
 
-   doc.rst
+   introduction.rst
+   layout.rst
+   jurisdiction-keys.rst
+   match-priorities.rst
+   database-storage.rst
+   category-keys.rst
+
